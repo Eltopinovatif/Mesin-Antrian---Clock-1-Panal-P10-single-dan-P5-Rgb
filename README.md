@@ -18,4 +18,6 @@ https://github.com/Eltopinovatif/Mesin-Antrian---Clock-1-Panal-P10-single-dan-P5
 
 https://github.com/Eltopinovatif/Mesin-Antrian---Clock-1-Panal-P10-single-dan-P5-Rgb/blob/main/Manual%20Query%20clock01_display%20single.jpg
 
+https://github.com/Eltopinovatif/Mesin-Antrian---Clock-1-Panal-P10-single-dan-P5-Rgb/blob/main/Manual%20Query%20clock01.pdf
+
 
