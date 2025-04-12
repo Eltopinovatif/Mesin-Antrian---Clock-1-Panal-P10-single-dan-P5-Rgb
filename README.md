@@ -14,4 +14,6 @@ Baterai bisa tahan lama karena mengunakan tehnologi BLE 5.0 ( bluetooth Low Ener
 
 https://github.com/Eltopinovatif/Mesin-Antrian---Clock-1-Panal-P10-single-dan-P5-Rgb/blob/main/Manual%20Query%20clock01%20Ganti%20remote.jpg
 
+https://github.com/Eltopinovatif/Mesin-Antrian---Clock-1-Panal-P10-single-dan-P5-Rgb/blob/main/Manual%20Query%20clock01_App.jpg
+
 
