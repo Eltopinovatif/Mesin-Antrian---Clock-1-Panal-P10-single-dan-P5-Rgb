@@ -11,3 +11,7 @@ Mesin Query/Antrian didukung Aplikas "Clock" by Eltop, yg bisa disedikan di Play
 
 Mesin Query/Antrian ini di lengkapi tombol atau kepad Wireless [ Remote Selfie ] atau keypad khusus eltop yg recharger
 Baterai bisa tahan lama karena mengunakan tehnologi BLE 5.0 ( bluetooth Low Energy ). 
+
+https://github.com/Eltopinovatif/Mesin-Antrian---Clock-1-Panal-P10-single-dan-P5-Rgb/blob/main/Manual%20Query%20clock01%20Ganti%20remote.jpg
+
+
